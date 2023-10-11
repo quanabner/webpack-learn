@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "DINPro-Medium";
+  src: url("DINPro-Medium.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DINPro-Regular";
+  src: url("DINPro-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AlibabaPuHuiTi-Heavy";
+  src: url("https://duidian-fe.oss-cn-hangzhou.aliyuncs.com/fonts/Alibaba-PuHuiTi-Heavy.woff");
+}
