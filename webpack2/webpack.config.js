@@ -20,6 +20,7 @@ module.exports = {
     filename: "[name].bundle.js",
     path: path.resolve(__dirname, "dist"),
     clean: true, // 每次构建清空dist目录
+    publicPath: '/',
   },
   optimization: {
     runtimeChunk: 'single',
